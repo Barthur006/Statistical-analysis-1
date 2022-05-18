@@ -18,4 +18,17 @@ behavior) and the thickness of a participant’s medial temporal lobe (MTL) in a
 behavior associated with reduced medial temporal lobe thickness in middle-aged and older adults”. MTL
 volume is negatively associated with Alzheimer’s disease and memory impairment.
 
-I apply linear regression model to fit a predictive model to 
+Developing predictive model to be used in predicting the sitting. Linear regression would be used in the modeling.
+
+ ### Section 3
+ Simulate two Normally distributed random variables X1 and X2 with correlation 0.8, both should have a mean value of 70 and a standard deviation
+ of 8. See https://www.probabilitycourse.com/chapter5/5_3_2_b
+ivariate_normal_dist.php equation 5.23 for formulas that will help you see
+how to do the simulation. There are other ways to do this as well. 
+Think of X2 as a score on the second exam in a class, and X1 as the score
+on the first exam.
+
+Finding the relationship between the two exams and find some analytical 
+Statistical summaries.
+ 
+ 
