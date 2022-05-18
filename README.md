@@ -13,3 +13,9 @@ In this project, i will explore the relationship between age, experience, educat
 check why seniority employees should e controlled.
 
 ### Section 2
+Sitting and MTL thickness. @Siddarth2018 researched relations between time spent sitting (sedentary
+behavior) and the thickness of a participant’s medial temporal lobe (MTL) in a 2018 paper entitled, “Sedentary
+behavior associated with reduced medial temporal lobe thickness in middle-aged and older adults”. MTL
+volume is negatively associated with Alzheimer’s disease and memory impairment.
+
+I apply linear regression model to fit a predictive model to 
